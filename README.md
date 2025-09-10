@@ -15,6 +15,9 @@ TidyBot automatically organizes your Downloads folder by file type.
 2. Ensure Python 3.6+ is installed
 3. Run: `python tidybot.py`
 
+## Note:
+For now, the log file and config file is stored in %appdata% / tidyBot.
+
 ## Usage
 ```bash
 # Normal run (organizes files)
